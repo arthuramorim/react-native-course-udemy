@@ -11,6 +11,7 @@ import  Padrao from '../estilo/Padrao'
 export default props => 
     <Text style={Padrao.ex}>Arrow Function: { props.texto }</Text>
 
+
 const styles = StyleSheet.create({
     texto:{
         fontSize: 40
