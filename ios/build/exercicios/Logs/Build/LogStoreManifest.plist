@@ -6,40 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>902C86EE-BAB2-4B78-9343-DCE8212546BB</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>902C86EE-BAB2-4B78-9343-DCE8212546BB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>exercicios project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>exercicios</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building workspace exercicios with scheme exercicios and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>601911169.75585997</real>
-			<key>timeStoppedRecording</key>
-			<real>601912025.89416301</real>
-			<key>title</key>
-			<string>Building workspace exercicios with scheme exercicios and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>902C86EE-BAB2-4B78-9343-DCE8212546BB</string>
-		</dict>
 		<key>F41939C7-1524-4FAA-898B-A44EFD250AB9</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +39,40 @@
 			<string>Building workspace exercicios with scheme exercicios and configuration Debug</string>
 			<key>uniqueIdentifier</key>
 			<string>F41939C7-1524-4FAA-898B-A44EFD250AB9</string>
+		</dict>
+		<key>F9675AC4-75C1-4492-B4F4-25CE3436A5A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9675AC4-75C1-4492-B4F4-25CE3436A5A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>exercicios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>exercicios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace exercicios with scheme exercicios and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>602095078.21387005</real>
+			<key>timeStoppedRecording</key>
+			<real>602095080.93378603</real>
+			<key>title</key>
+			<string>Building workspace exercicios with scheme exercicios and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F9675AC4-75C1-4492-B4F4-25CE3436A5A4</string>
 		</dict>
 	</dict>
 </dict>
